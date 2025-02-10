@@ -1,3 +1,10 @@
+<!-- GH_ONLY_START -->
+<p align="center">
+  <img width="350" src=https://github.com/Pwhsky/deeplay/blob/logo/assets/Deeplay_blur.png?raw=true>
+</p>
+<!-- GH_ONLY_END -->
+
+
 Deeplay is a deep learning library in Python that extends PyTorch with additional functionalities focused on modularity and reusability.  Deeplay seeks to address the common issue of rigid and non-reusable modules in PyTorch projects by offering a system that allows for easy customization and optimization of neural network components. Specifically, it facilitates the definition, training, and adjustment of neural networks by introducing dynamic modification capabilities for model components after their initial creation.
 
 # Core Philosophy
