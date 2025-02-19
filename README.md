@@ -1,6 +1,6 @@
 <!-- GH_ONLY_START -->
 <p align="center">
-  <img width="500" src=https://github.com/Pwhsky/deeplay/blob/logo/assets/square.svg?raw=true>
+  <img width="350" src=https://github.com/Pwhsky/deeplay/blob/logo/assets/square.svg?raw=true>
 </p>
 <!-- GH_ONLY_END -->
 
