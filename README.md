@@ -4,6 +4,31 @@
 </p>
 <!-- GH_ONLY_END -->
 <h3 align="center">Deeplay - A modular framework for Deep Learning and AI.</h3>
+<p align="center">
+  <a href="/LICENSE" alt="licence">
+    <img src="https://img.shields.io/github/license/DeepTrackAI/DeepTrack2">
+  </a>
+  <a href="https://badge.fury.io/py/deeplay">
+    <img src="https://badge.fury.io/py/deeplay.svg" alt="PyPI version">
+  </a>
+  <a href="https://deeptrackai.github.io/deeplay">
+    <img src="https://img.shields.io/badge/docs-available-blue?logo=readthedocs">
+  </a>
+  <a href="https://badge.fury.io/py/deeplay">
+    <img src="https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue" alt="Python version">
+  </a>
+  <a href="https://doi.org/10.1063/5.0034891">
+    <img src="https://img.shields.io/badge/cite us-10.1063%2F5.0034891-blue">
+  </a>
+</p>
+<p align="center">
+  <a href="#quick-start-guide">Quick Start Guide</a> •
+  <a href="#examples">Examples</a> •
+  <a href="#core-philosophy">Core Philosophy</a> •
+  <a href="#deeplay-compared-to-torch">Compared to Torch</a> •
+  <a href="#deeplay-compared-to-lightning">Compared to Lightning</a> •
+  <a href="/LICENSE">License</a> 
+</p>
 
 Deeplay is a deep learning library in Python that extends PyTorch with additional functionalities focused on modularity and reusability.  Deeplay seeks to address the common issue of rigid and non-reusable modules in PyTorch projects by offering a system that allows for easy customization and optimization of neural network components. Specifically, it facilitates the definition, training, and adjustment of neural networks by introducing dynamic modification capabilities for model components after their initial creation.
 
@@ -84,7 +109,7 @@ Here you find a series of notebooks that give you an overview of the core featur
 
   Styles.
 
-## Examples
+# Examples
 
 ## Advanced Topics
 
